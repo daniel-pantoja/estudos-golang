@@ -28,3 +28,8 @@ Para instalar o VS Code dentro do computador, <a href="https://code.visualstudio
 * Zero Values
 * Funções
 * Arrays e Slices
+* Maps
+* Structs
+* If/Else
+* Switch Case
+* Loops
