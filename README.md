@@ -41,3 +41,8 @@ Lista de exercícios das plataformas Codewars e Exercism.
 * Convenção de nomenclatura
 * Escolha de bons nomes
 * <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: instrução da própria linguagem de como organizar as pastas dos projetos
+
+## Outros conceitos do Go
+* Métodos em Structs
+* Interfaces
+* Ponteiros
