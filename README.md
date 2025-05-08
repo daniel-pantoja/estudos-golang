@@ -53,3 +53,9 @@ Lista de exercícios das plataformas Codewars e Exercism.
 * Usando pacote externo Echo e baixando dependências
 * Comandos básicos para o go.mod
 * Funções públicas e privadas
+
+## API
+* O que é uma API
+* Tipos de APIs
+* Como são usadas
+* Exemplo
