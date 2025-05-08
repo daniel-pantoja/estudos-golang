@@ -33,3 +33,11 @@ Para instalar o VS Code dentro do computador, <a href="https://code.visualstudio
 * If/Else
 * Switch Case
 * Loops
+
+## Exercícios
+Lista de exercícios das plataformas Codewars e Exercism.
+
+## Boas práticas de programação
+* Convenção de nomenclatura
+* Escolha de bons nomes
+* <a href="https://go.dev/doc/modules/layout" target="_blank"> Layout de organização de projetos </a>: instrução da própria linguagem de como organizar as pastas dos projetos
